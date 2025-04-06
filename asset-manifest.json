@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paoli22/GeneradorContrase-a/static/css/main.de6282b5.css",
+    "main.js": "/paoli22/GeneradorContrase-a/static/js/main.562a421d.js",
+    "static/js/453.8ae3ac38.chunk.js": "/paoli22/GeneradorContrase-a/static/js/453.8ae3ac38.chunk.js",
+    "index.html": "/paoli22/GeneradorContrase-a/index.html",
+    "main.de6282b5.css.map": "/paoli22/GeneradorContrase-a/static/css/main.de6282b5.css.map",
+    "main.562a421d.js.map": "/paoli22/GeneradorContrase-a/static/js/main.562a421d.js.map",
+    "453.8ae3ac38.chunk.js.map": "/paoli22/GeneradorContrase-a/static/js/453.8ae3ac38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6282b5.css",
+    "static/js/main.562a421d.js"
+  ]
+}
